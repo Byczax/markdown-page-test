@@ -2,7 +2,4 @@
 
 Here we have some test page.
 
-- this
-- is
-- bullet
-- point
+- [01 - Assotiation](01-assotiation.md)
